@@ -1,11 +1,11 @@
 {
   "players": [
     {
-      "name": "鍾子文",
-      "handicap": -4,
+      "name": "黃國權",
+      "handicap": 32,
       "score": 11,
-      "gameWon": 1,
-      "highBreak": 28,
+      "gameWon": 0,
+      "highBreak": 0,
       "id": "1",
       "active": true,
       "ballRack": [
@@ -20,8 +20,8 @@
       ]
     },
     {
-      "name": "蔡劍華",
-      "handicap": -7,
+      "name": "袁劼",
+      "handicap": 34,
       "score": 0,
       "gameWon": 0,
       "highBreak": 21,
@@ -42,7 +42,7 @@
   "game": [
     {
       "id": "1",
-      "Title": "名將盃2024-4-屯門站",
+      "Title": "名將盃2025-大埔站",
       "TotalGame": "9",
       "ColorScheme": "gold"
     }
