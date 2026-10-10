@@ -1,7 +1,7 @@
 {
   "players": [
     {
-      "name": "黃國權",
+      "name": "馮國威",
       "handicap": 32,
       "score": 11,
       "gameWon": 0,
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "name": "袁劼",
+      "name": "冼偉諾",
       "handicap": 34,
       "score": 0,
       "gameWon": 0,
@@ -43,7 +43,7 @@
     {
       "id": "1",
       "Title": "名將盃2025-大埔站",
-      "TotalGame": "9",
+      "TotalGame": "7",
       "ColorScheme": "gold"
     }
   ]
